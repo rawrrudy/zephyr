@@ -1,0 +1,51 @@
+group_size,stations,common_observed_timestamps,equivalent_observation_days,common_valid_pm25_timestamps,equivalent_valid_pm25_days,first_common_valid_pm25_timestamp,last_common_valid_pm25_timestamp
+2,mhada_colony | sppu,63728,663.8333333333334,55101,573.96875,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00
+2,revenue_colony_shivajinagar | sppu,62593,652.0104166666666,53492,557.2083333333334,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+2,mhada_colony | revenue_colony_shivajinagar,56987,593.6145833333334,51855,540.15625,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+2,mhada_colony | transport_nagar_ngidi,53031,552.40625,50702,528.1458333333334,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00
+2,sppu | transport_nagar_ngidi,57184,595.6666666666666,49563,516.28125,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00
+2,katraj_dairy | sppu,70176,731.0,47745,497.34375,2024-01-01 00:00:00+00:00,2025-12-31 23:45:00+00:00
+2,revenue_colony_shivajinagar | transport_nagar_ngidi,51723,538.78125,47244,492.125,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+2,katraj_dairy | mhada_colony,63728,663.8333333333334,47069,490.3020833333333,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00
+2,katraj_dairy | revenue_colony_shivajinagar,62593,652.0104166666666,44276,461.2083333333333,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+2,bhukum_nagar | sppu,70176,731.0,44176,460.1666666666667,2024-05-21 13:15:00+00:00,2025-12-31 23:30:00+00:00
+3,mhada_colony | revenue_colony_shivajinagar | sppu,56987,593.6145833333334,47246,492.1458333333333,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+3,mhada_colony | sppu | transport_nagar_ngidi,53031,552.40625,44728,465.9166666666667,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00
+3,revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,51723,538.78125,43234,450.3541666666667,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+3,mhada_colony | revenue_colony_shivajinagar | transport_nagar_ngidi,47706,496.9375,42352,441.1666666666667,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+3,katraj_dairy | mhada_colony | sppu,63728,663.8333333333334,41877,436.21875,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00
+3,katraj_dairy | revenue_colony_shivajinagar | sppu,62593,652.0104166666666,40660,423.5416666666667,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+3,bhukum_nagar | mhada_colony | sppu,63728,663.8333333333334,38829,404.46875,2024-05-21 13:15:00+00:00,2025-12-31 23:30:00+00:00
+3,katraj_dairy | mhada_colony | revenue_colony_shivajinagar,56987,593.6145833333334,38753,403.6770833333333,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+3,katraj_dairy | mhada_colony | transport_nagar_ngidi,53031,552.40625,38467,400.6979166666667,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00
+3,katraj_dairy | sppu | transport_nagar_ngidi,57184,595.6666666666666,38048,396.3333333333333,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00
+4,mhada_colony | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,47706,496.9375,38590,401.9791666666667,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+4,katraj_dairy | mhada_colony | revenue_colony_shivajinagar | sppu,56987,593.6145833333334,35564,370.4583333333333,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+4,katraj_dairy | mhada_colony | sppu | transport_nagar_ngidi,53031,552.40625,34125,355.46875,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00
+4,katraj_dairy | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,51723,538.78125,32897,342.6770833333333,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+4,bhukum_nagar | mhada_colony | revenue_colony_shivajinagar | sppu,56987,593.6145833333334,32154,334.9375,2024-05-21 13:15:00+00:00,2025-12-31 23:15:00+00:00
+4,karve_road | mhada_colony | revenue_colony_shivajinagar | sppu,56987,593.6145833333334,32093,334.3020833333333,2024-01-01 08:30:00+00:00,2025-05-23 21:00:00+00:00
+4,katraj_dairy | mhada_colony | revenue_colony_shivajinagar | transport_nagar_ngidi,47706,496.9375,31748,330.7083333333333,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+4,bhukum_nagar | mhada_colony | sppu | transport_nagar_ngidi,53031,552.40625,30487,317.5729166666667,2024-05-21 13:15:00+00:00,2025-12-31 23:30:00+00:00
+4,bhukum_nagar | katraj_dairy | mhada_colony | sppu,63728,663.8333333333334,29765,310.0520833333333,2024-06-26 09:30:00+00:00,2025-12-31 23:30:00+00:00
+4,bhukum_nagar | mhada_colony | panchwati_pashan | sppu,63728,663.8333333333334,29741,309.8020833333333,2024-07-18 18:15:00+00:00,2025-12-31 23:30:00+00:00
+5,katraj_dairy | mhada_colony | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,47706,496.9375,29121,303.34375,2024-01-01 08:30:00+00:00,2025-12-31 23:15:00+00:00
+5,karve_road | mhada_colony | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,47706,496.9375,26159,272.4895833333333,2024-01-01 08:30:00+00:00,2025-05-23 21:00:00+00:00
+5,bhukum_nagar | mhada_colony | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,47706,496.9375,25288,263.4166666666667,2024-05-21 13:15:00+00:00,2025-12-31 23:15:00+00:00
+5,bhukum_nagar | katraj_dairy | mhada_colony | revenue_colony_shivajinagar | sppu,56987,593.6145833333334,24273,252.84375,2024-06-26 09:30:00+00:00,2025-12-31 23:15:00+00:00
+5,bhukum_nagar | mhada_colony | panchwati_pashan | revenue_colony_shivajinagar | sppu,56987,593.6145833333334,23793,247.84375,2024-07-18 18:15:00+00:00,2025-12-31 23:15:00+00:00
+5,bhukum_nagar | mhada_colony | panchwati_pashan | sppu | transport_nagar_ngidi,53031,552.40625,23725,247.13541666666666,2024-07-18 18:15:00+00:00,2025-12-31 23:30:00+00:00
+5,bhukum_nagar | katraj_dairy | mhada_colony | panchwati_pashan | sppu,63728,663.8333333333334,23669,246.55208333333334,2024-07-18 18:15:00+00:00,2025-12-31 23:30:00+00:00
+5,karve_road | katraj_dairy | mhada_colony | revenue_colony_shivajinagar | sppu,56987,593.6145833333334,23355,243.28125,2024-01-01 08:30:00+00:00,2025-05-23 21:00:00+00:00
+5,bhukum_nagar | katraj_dairy | mhada_colony | sppu | transport_nagar_ngidi,53031,552.40625,23044,240.04166666666666,2024-06-26 09:30:00+00:00,2025-12-31 23:30:00+00:00
+5,bhosari | mhada_colony | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,26564,276.7083333333333,22452,233.875,2024-01-01 08:30:00+00:00,2025-12-12 12:00:00+00:00
+6,karve_road | katraj_dairy | mhada_colony | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,47706,496.9375,19049,198.42708333333334,2024-01-01 08:30:00+00:00,2025-05-23 21:00:00+00:00
+6,bhukum_nagar | mhada_colony | panchwati_pashan | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,47706,496.9375,18962,197.52083333333334,2024-07-18 18:15:00+00:00,2025-12-31 23:15:00+00:00
+6,bhukum_nagar | katraj_dairy | mhada_colony | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,47706,496.9375,18718,194.97916666666666,2024-06-26 09:30:00+00:00,2025-12-31 23:15:00+00:00
+6,bhukum_nagar | katraj_dairy | mhada_colony | panchwati_pashan | revenue_colony_shivajinagar | sppu,56987,593.6145833333334,18652,194.29166666666666,2024-07-18 18:15:00+00:00,2025-12-31 23:15:00+00:00
+6,bhukum_nagar | katraj_dairy | mhada_colony | panchwati_pashan | sppu | transport_nagar_ngidi,53031,552.40625,18552,193.25,2024-07-18 18:15:00+00:00,2025-12-31 23:30:00+00:00
+6,bhosari | katraj_dairy | mhada_colony | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,26564,276.7083333333333,17797,185.38541666666666,2024-01-01 08:30:00+00:00,2025-12-12 11:45:00+00:00
+6,bhukum_nagar | katraj_dairy | panchwati_pashan | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,51723,538.78125,17029,177.38541666666666,2024-07-18 18:15:00+00:00,2025-12-31 23:15:00+00:00
+6,bhukum_nagar | katraj_dairy | mhada_colony | panchwati_pashan | revenue_colony_shivajinagar | transport_nagar_ngidi,47706,496.9375,15938,166.02083333333334,2024-07-18 18:15:00+00:00,2025-12-31 23:15:00+00:00
+6,katraj_dairy | mhada_colony | panchwati_pashan | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,47706,496.9375,15761,164.17708333333334,2024-07-18 18:15:00+00:00,2025-12-31 23:15:00+00:00
+6,bhosari | karve_road | mhada_colony | revenue_colony_shivajinagar | sppu | transport_nagar_ngidi,26564,276.7083333333333,15668,163.20833333333334,2024-01-01 08:30:00+00:00,2025-05-23 21:00:00+00:00
