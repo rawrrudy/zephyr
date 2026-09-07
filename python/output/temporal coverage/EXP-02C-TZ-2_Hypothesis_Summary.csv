@@ -1,0 +1,3 @@
+hypothesis,total_simultaneous_timestamps,mean_simultaneous_timestamps,station_pairs_with_overlap
+H1_naive_equals_UTC,118106,10736.90909090909,11
+H2_naive_equals_IST,117806,10709.636363636364,11
