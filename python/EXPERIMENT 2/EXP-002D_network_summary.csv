@@ -1,2 +1,0 @@
-number_of_stations,minimum_latitude,maximum_latitude,minimum_longitude,maximum_longitude,latitude_span_degrees,longitude_span_degrees,approx_north_south_extent_km,approx_east_west_extent_km,centroid_latitude,centroid_longitude
-12,18.45445,18.675076,73.749976,73.927715,0.22062599999999932,0.17773900000000253,24.532525771603353,18.73609088070399,18.55742641666667,73.84297908333333
