@@ -1,0 +1,67 @@
+station_a,station_b,simultaneous_valid_timestamps,equivalent_15min_observation_days
+Mhada Colony,SPPU,55101,573.96875
+Revenue Colony/Shivajinagar,SPPU,53492,557.2083333333334
+Mhada Colony,Revenue Colony/Shivajinagar,51855,540.15625
+Mhada Colony,Transport Nagar/Nigdi,50702,528.1458333333334
+SPPU,Transport Nagar/Nigdi,49563,516.28125
+Katraj Dairy,SPPU,47745,497.34375
+Revenue Colony/Shivajinagar,Transport Nagar/Nigdi,47244,492.125
+Katraj Dairy,Mhada Colony,47069,490.3020833333333
+Katraj Dairy,Revenue Colony/Shivajinagar,44276,461.2083333333333
+Bhukum Nagar,SPPU,44176,460.1666666666667
+Bhukum Nagar,Mhada Colony,43593,454.09375
+Katraj Dairy,Transport Nagar/Nigdi,42634,444.1041666666667
+Bhukum Nagar,Revenue Colony/Shivajinagar,40357,420.3854166666667
+Karve Road,Revenue Colony/Shivajinagar,40216,418.9166666666667
+Karve Road,SPPU,39318,409.5625
+Bhukum Nagar,Panchawati/Pashan,39047,406.7395833333333
+Bhukum Nagar,Transport Nagar/Nigdi,38528,401.3333333333333
+Bhukum Nagar,Katraj Dairy,38279,398.7395833333333
+Panchawati/Pashan,SPPU,37611,391.78125
+Mhada Colony,Panchawati/Pashan,37542,391.0625
+Karve Road,Mhada Colony,37164,387.125
+Panchawati/Pashan,Revenue Colony/Shivajinagar,33980,353.9583333333333
+Karve Road,Transport Nagar/Nigdi,33952,353.6666666666667
+Panchawati/Pashan,Transport Nagar/Nigdi,33828,352.375
+Bhosari,Mhada Colony,33818,352.2708333333333
+Katraj Dairy,Panchawati/Pashan,33667,350.6979166666667
+Bhosari,SPPU,32619,339.78125
+Karve Road,Katraj Dairy,31517,328.3020833333333
+Bhosari,Revenue Colony/Shivajinagar,30698,319.7708333333333
+Bhosari,Transport Nagar/Nigdi,30266,315.2708333333333
+Bhosari,Katraj Dairy,27603,287.53125
+Bhukum Nagar,Karve Road,26066,271.5208333333333
+Hadapsar,SPPU,25593,266.59375
+Hadapsar,Mhada Colony,25070,261.1458333333333
+Hadapsar,Revenue Colony/Shivajinagar,23866,248.60416666666666
+Alandi,Mhada Colony,23141,241.05208333333334
+Bhukum Nagar,Hadapsar,23118,240.8125
+Bhosari,Karve Road,22529,234.67708333333334
+Alandi,Revenue Colony/Shivajinagar,22514,234.52083333333334
+Alandi,SPPU,21891,228.03125
+Hadapsar,Transport Nagar/Nigdi,21745,226.51041666666666
+Bhosari,Bhukum Nagar,20665,215.26041666666666
+Alandi,Karve Road,20601,214.59375
+Karve Road,Panchawati/Pashan,20462,213.14583333333334
+Hadapsar,Katraj Dairy,19119,199.15625
+Alandi,Transport Nagar/Nigdi,19104,199.0
+Hadapsar,Panchawati/Pashan,18876,196.625
+Hadapsar,Karve Road,17559,182.90625
+Bhosari,Panchawati/Pashan,16946,176.52083333333334
+Dhankawadi,Panchawati/Pashan,15719,163.73958333333334
+Alandi,Katraj Dairy,15626,162.77083333333334
+Dhankawadi,Mhada Colony,15248,158.83333333333334
+Bhukum Nagar,Dhankawadi,15065,156.92708333333334
+Alandi,Bhukum Nagar,14874,154.9375
+Dhankawadi,SPPU,14169,147.59375
+Dhankawadi,Transport Nagar/Nigdi,14044,146.29166666666666
+Dhankawadi,Katraj Dairy,13681,142.51041666666666
+Bhosari,Hadapsar,10995,114.53125
+Alandi,Bhosari,10963,114.19791666666667
+Alandi,Hadapsar,10608,110.5
+Dhankawadi,Revenue Colony/Shivajinagar,10520,109.58333333333333
+Alandi,Panchawati/Pashan,9135,95.15625
+Dhankawadi,Hadapsar,8240,85.83333333333333
+Bhosari,Dhankawadi,7394,77.02083333333333
+Dhankawadi,Karve Road,3474,36.1875
+Alandi,Dhankawadi,252,2.625
