@@ -1,5 +1,0 @@
-grid_points,grid_step_degrees,mean_nearest_station_distance_km,median_nearest_station_distance_km,minimum_nearest_station_distance_km,maximum_nearest_station_distance_km,q25_nearest_station_distance_km,q75_nearest_station_distance_km,q90_nearest_station_distance_km,q95_nearest_station_distance_km,threshold_km,grid_points_within_threshold,percentage_of_grid_within_threshold
-1702.0,0.005,3.292833556286871,3.29567229420977,0.0810793178169465,8.734575278257829,2.10527531915325,4.39578535318298,5.271146614325424,5.739926156995298,1,113,6.639247943595769
-,,,,,,,,,,2,391,22.972972972972975
-,,,,,,,,,,5,1473,86.54524089306697
-,,,,,,,,,,10,1702,100.0
