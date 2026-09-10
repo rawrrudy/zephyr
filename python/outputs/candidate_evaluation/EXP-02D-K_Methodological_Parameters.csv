@@ -1,0 +1,7 @@
+parameter,value
+analysis_version,EXP-02D-K
+baseline_mean_nearest_station_distance_km,3.112151
+spatial_improvement_weight,0.5
+robustness_weight,0.5
+objective_score_definition,0.5 * normalized spatial improvement + 0.5 * normalized robustness
+context_variables_definition,"Land cover, population, roads and buildings are retained as contextual descriptors and are not treated as intrinsically good or bad."

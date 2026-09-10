@@ -1,0 +1,4 @@
+objective_rank,sensor,latitude,longitude,spatial_improvement_km,robustness_range_km,objective_performance_score,screening_decision
+1,Sensor_3,18.530892,73.892273,0.723152,0.017638,0.692647,RETAIN — survives objective screening
+2,Sensor_1,18.593845,73.8733,0.297034,0.008067,0.5,RETAIN — survives objective screening
+3,Sensor_2,18.602838,73.802151,0.564856,0.023636,0.314258,RETAIN — survives objective screening
