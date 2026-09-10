@@ -1,0 +1,2 @@
+number_of_new_sensors,minimum_distance_from_existing_km,minimum_distance_between_new_sensors_km,candidate_grid_points,study_area_grid_points,optimization_objective
+3,1.0,2.0,1182,1262,Minimize mean nearest-station distance
