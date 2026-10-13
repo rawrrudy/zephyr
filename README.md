@@ -22,6 +22,8 @@
 
 ---
 
+> For the complete development history, experimental logs, methodology, and progress documentation, refer to the [Zephyr Research Journal](https://docs.google.com/document/d/1UNnaVMcwHacSM3fK-nPlUQ8PDllBp77jAxlY4db8Qwo/edit?tab=t.0)
+
 
 Can a sparse network of low cost ground sensors, fused with freely available satellite aerosol data, reconstruct accurate hyperlocal (street by street) air pollution levels — outperforming both "nearest official station" estimates and ground sensors alone? 
 
