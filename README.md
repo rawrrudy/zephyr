@@ -36,10 +36,10 @@ Zephyr collects ground level particulate matter and environmental readings to su
 <table>
   <tr>
     <td align="center">
-      <img src="images/Zephyr_IRL_1.jpeg" width="400">
+      <img src="images/Zephyr_IRL_1.jpeg" width="500">
     </td>
     <td align="center">
-      <img src="images/Zephyr_IRL_2.jpeg" width="400">
+      <img src="images/Zephyr_IRL_2.jpeg" width="500">
     </td>
   </tr>
 </table>
@@ -60,10 +60,10 @@ The objective is to investigate whether multi source data fusion can improve the
 <table>
   <tr>
     <td align="center">
-      <img src="images/Research_1.png" width="400">
+      <img src="images/Research_1.png" width="500">
     </td>
     <td align="center">
-      <img src="images/Research_2.png" width="400">
+      <img src="images/Research_2.png" width="500">
     </td>
   </tr>
 </table>
