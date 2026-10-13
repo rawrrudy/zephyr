@@ -72,5 +72,29 @@ The objective is to investigate whether multi source data fusion can improve the
 
 ## PCB and Hardware
 
+Zephyr integrates **embedded systems engineering and environmental sensing** into a portable air quality monitoring platform built around the ESP32. The system combines particulate matter, meteorological, gas sensing, and GPS modules for localized environmental data acquisition.
+
+The custom PCB design process uses **KiCad based electronic design automation (EDA)**, incorporating schematic capture, component layout, power distribution, and design rule verification. Firmware driven sensor interfacing and microSD based CSV logging support field data collection for subsequent geospatial analysis.
+
+### Core Components
+
+- **ESP32:** Embedded processing and sensor interfacing.
+- **PMS5003:** PM1.0, PM2.5, and PM10 measurements.
+- **AHT20 + BMP180:** Temperature, humidity, and atmospheric pressure.
+- **MQ135:** Analog gas sensor readings.
+- **GPS + microSD:** Geospatial tagging and local data logging.
+- **Battery and voltage regulation:** Portable power delivery.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/PCB_ZOOMIN.png" width="450">
+    </td>
+    <td align="center">
+      <img src="images/Zephyr_Schematic.png" width="450">
+    </td>
+  </tr>
+</table>
+
 
 
