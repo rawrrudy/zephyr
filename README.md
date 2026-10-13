@@ -48,5 +48,25 @@ Zephyr collects ground level particulate matter and environmental readings to su
 
 ## Research Workflow
 
+> **Detailed Research Journal:** For the complete development history, experimental logs, methodology, and progress documentation, refer to the [Zephyr Research Journal](https://docs.google.com/document/d/1UNnaVMcwHacSM3fK-nPlUQ8PDllBp77jAxlY4db8Qwo/edit?tab=t.0).
+
+
+Zephyr investigates **satellite assisted reconstruction of hyperlocal PM2.5 concentration fields** by integrating sparse ground level observations from CPCB Continuous Ambient Air Quality Monitoring Stations (CAAQMS) with satellite derived atmospheric data from Sentinel-5P.
+
+The workflow encompasses geospatial preprocessing, spatiotemporal data alignment, ground-station coverage analysis, meteorological feature integration, and diffusion based reconstruction of urban pollution fields. Model evaluation focuses on spatial generalization and quantitative validation against suitable ground-level reference measurements, using metrics such as MAE, RMSE, and \(R^2\).
+
+The objective is to investigate whether multi source data fusion can improve the spatial resolution of air quality estimates in areas underserved by conventional monitoring networks.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Research_1.png" width="400">
+    </td>
+    <td align="center">
+      <img src="images/Research_2.png" width="400">
+    </td>
+  </tr>
+</table>
+
 
 
