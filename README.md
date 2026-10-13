@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/ZephyrLOGO" width="280" alt="Zephyr Logo"/>
+  <img src="images/ZephyrLOGO.svg" width="280" alt="Zephyr Logo"/>
 </p>
 
 <h1 align="center">Zephyr</h1>
@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hardware-ESP32-orange?style=for-the-badge" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Sensors-PMS5003-blue?style=for-the-badge" alt="PMS5003"/>
-  <img src="https://img.shields.io/badge/Research-Air_Quality-2ea44f?style=for-the-badge" alt="Air Quality Research"/>
-  <img src="https://img.shields.io/badge/Data-Satellite_%2B_Ground-purple?style=for-the-badge" alt="Satellite and Ground Data"/>
+  <img src="https://img.shields.io/badge/ESP32-orange?style=flat-square" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/PMS5003-blue?style=flat-square" alt="PMS5003"/>
+  <img src="https://img.shields.io/badge/AIR_QUALITY-2ea44f?style=flat-square" alt="Air Quality"/>
+  <img src="https://img.shields.io/badge/SATELLITE_%2B_GROUND-purple?style=flat-square" alt="Satellite + Ground"/>
 </p>
 
 <p align="center">
