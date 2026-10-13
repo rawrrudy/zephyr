@@ -20,15 +20,6 @@
   <img src="https://img.shields.io/badge/SATELLITE_%2B_GROUND-purple?style=flat-square" alt="Satellite + Ground"/>
 </p>
 
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#hardware">Hardware</a> •
-  <a href="#methodology">Methodology</a> •
-  <a href="#data">Data</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
-</p>
-
 ---
 
 
