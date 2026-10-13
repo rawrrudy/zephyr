@@ -93,5 +93,41 @@ The custom PCB design process uses **KiCad based electronic design automation (E
   <img src="images/Zephyr_Schematic.png" width="700">
 </p>
 
+---
+
+## CAD (Computer-Aided-Design)
+
+Zephyr uses computer-aided design (CAD) to create size limited 3D models of the hardware enclosure and other mechanical parts. With Autodesk Fusion the design process includes modeling, sketch constraints, feature based solid modeling and checking dimensions to make sure all parts fit together and are arranged in a smart way.
+
+The CAD process looks at the shape of the enclosure how easy it is to get to the sensors how the PCB fits in, where things are attached and how cables are placed. It also makes sure there is airflow, which is important, for measuring particulate matter. These models help with making prototypes improving the design and possibly making the parts with 3D printing.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/CAD_1.png" width="500">
+    </td>
+    <td align="center">
+      <img src="images/CAD_2.png" width="500">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/CAD_3.png" width="500">
+    </td>
+    <td align="center">
+      <img src="images/CAD_4.png" width="500">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/CAD_6.png" width="500">
+    </td>
+    <td align="center">
+      <img src="images/CAD_7.png" width="500">
+    </td>
+  </tr>
+</table>
+
+
 
 
