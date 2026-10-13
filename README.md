@@ -156,7 +156,7 @@ Spatial validation further demonstrated that the reconstructed concentration fie
 In conclusion, Zephyr demonstrated the potential of satellite assisted data fusion to address spatial gaps in conventional monitoring networks. By combining embedded sensing, geospatial processing, and predictive modelling, the project established a framework for generating more detailed air-quality estimates to support environmental research and urban planning. The strength and generalizability of these findings depend on independent validation, appropriate baseline comparisons, and reproducibility across different locations and time periods.
 
 <p align="center">
-  <img src="images/Zephyr_Perfoemance.png" width="800">
+  <img src="images/Zephyr_Performance.png" width="800">
 </p>
 
 
