@@ -42,5 +42,16 @@ Can a sparse network of low cost ground sensors, fused with freely available sat
 
 Zephyr collects ground level particulate matter and environmental readings to support research into estimating PM2.5 pollution in areas with sparse monitoring coverage.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Zephyr_IRL_1.jpeg" width="400">
+    </td>
+    <td align="center">
+      <img src="images/Zephyr_IRL_2.jpeg" width="400">
+    </td>
+  </tr>
+</table>
+
 
 
