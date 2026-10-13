@@ -85,16 +85,13 @@ The custom PCB design process uses **KiCad based electronic design automation (E
 - **GPS + microSD:** Geospatial tagging and local data logging.
 - **Battery and voltage regulation:** Portable power delivery.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/PCB_ZOOMIN.png" width="450">
-    </td>
-    <td align="center">
-      <img src="images/Zephyr_Schematic.png" width="450">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="images/PCB_ZOOMIN.png" width="700">
+</p>
+
+<p align="center">
+  <img src="images/Zephyr_Schematic.png" width="700">
+</p>
 
 
 
