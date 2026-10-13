@@ -31,7 +31,7 @@ Can a sparse network of low cost ground sensors, fused with freely available sat
 
 ## Overview 
 
-Zephyr collects ground level particulate matter and environmental readings to support research into estimating PM2.5 pollution in areas with sparse monitoring coverage.
+Zephyr collects ground level particulate matter and environmental readings to support research into estimating PM2.5 pollution in areas with sparse monitoring coverage. Zephyr aims to address the challenges of urban air pollution by making hyperlocal air quality insights more accessible and actionable. By combining ground level sensor measurements with satellite derived data, the project seeks to identify pollution patterns that conventional monitoring networks may overlook. 
 
 <table>
   <tr>
