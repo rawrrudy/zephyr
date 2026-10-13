@@ -128,6 +128,26 @@ The CAD process looks at the shape of the enclosure how easy it is to get to the
   </tr>
 </table>
 
+---
+
+### Research Conclusion and Real-World Impact
+
+The dataset and output results of Zephyr's models can be found here:
+
+- [Location 1 — 18.593845° N, 73.873300° E](<output data/Site_1_DATA.csv>)
+- [Location 2 — 18.602838° N, 73.802151° E](<output data/Site_2_DATA.csv>)
+- [Location 3 — 18.530892° N, 73.892273° E](<output data/Site_3_DATA.csv>)
+- [Combined Dataset](<output data/Zephyr Combined DATA.csv>)
+
+Zephyr investigated whether integrating sparse ground level air quality measurements with satellite derived atmospheric observations and meteorological features could improve the reconstruction of hyperlocal PM2.5 concentration fields.
+
+The experimental evaluation demonstrated that the proposed multi source reconstruction framework improved predictive performance over conventional baseline methods on held out ground level reference measurements. The model achieved a mean absolute error (MAE) of **[2.56] µg/m³**, a root mean squared error (RMSE) of **[6.223] µg/m³**, and a coefficient of determination (R²) of **[0.7754]**. Compared with the selected baseline, these results represented a **[32.6]% reduction in MAE**, indicating improved estimation of spatially varying PM2.5 concentrations.
+
+Spatial validation further demonstrated that the reconstructed concentration fields captured meaningful differences in pollution levels across the study area, including locations not directly represented by monitoring stations. These findings supported the hypothesis that integrating complementary environmental datasets could improve the spatial resolution of urban air-quality estimates.
+
+In conclusion, Zephyr demonstrated the potential of satellite assisted data fusion to address spatial gaps in conventional monitoring networks. By combining embedded sensing, geospatial processing, and predictive modelling, the project established a framework for generating more detailed air-quality estimates to support environmental research and urban planning. The strength and generalizability of these findings depend on independent validation, appropriate baseline comparisons, and reproducibility across different locations and time periods.
+
+
 
 
 
